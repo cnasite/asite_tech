@@ -8,7 +8,8 @@ states, and the Asite Intelligence accent (Neo Red).
 - `index.html` — landing / workspace chooser
 - `gate.html` — AI Coworkers access gate
 - `coworkers.html` — "Meet your Asite Coworker" agent hub
-- `wir-coach.html` — WIR Coach experience (Work Inspection Request create form + AI readiness)
+- `wir-coach.html` — WIR Coach experience (centered hero + 100vh demo stage)
+- `wir-demo.html` — the WIR Coach demo itself (embedded in wir-coach.html via iframe)
 
 ## Structure
 Self-contained. No external dependencies.
