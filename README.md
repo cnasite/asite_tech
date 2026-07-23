@@ -10,6 +10,8 @@ states, and the Asite Intelligence accent (Neo Red).
 - `coworkers.html` — "Meet your Asite Coworker" agent hub
 - `wir-coach.html` — WIR Coach experience (centered hero + 100vh demo stage)
 - `wir-demo.html` — the WIR Coach demo itself (embedded in wir-coach.html via iframe)
+- `metadata-checker.html` — Metadata Checker experience (hero + 100vh demo stage)
+- `metadata-demo.html` — the Metadata Checker product UI (Asite CDE Files register; product chrome keeps the live blue, register is Roma-typed, the checker surfaces inline as the STATUS column)
 
 ## Structure
 Self-contained. No external dependencies.
