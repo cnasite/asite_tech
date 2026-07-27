@@ -55,8 +55,8 @@ img,svg{display:block;max-width:100%}
 
 /* ---- type helpers ---------------------------------------- */
 .display   {font-size:clamp(38px,5.2vw,50px);line-height:1;letter-spacing:-1.62px;font-weight:500}
-.heading   {font-size:48px;line-height:1.05;letter-spacing:-1.44px;font-weight:500}
-.heading-sm{font-size:32px;line-height:1.1;letter-spacing:-.74px;font-weight:500}
+.heading   {font-size:36px;line-height:1.05;letter-spacing:-1.44px;font-weight:500}
+.heading-sm{font-size:24px;line-height:1.1;letter-spacing:-.74px;font-weight:500}
 .subheading{font-size:20px;line-height:1.2;letter-spacing:-.4px;font-weight:500}
 .body      {font-size:16px;line-height:1.4;font-weight:400}
 .body-sm   {font-size:14px;line-height:1.4;font-weight:400}
